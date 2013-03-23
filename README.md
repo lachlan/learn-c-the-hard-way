@@ -1,4 +1,6 @@
-learn-c-the-hard-way
+Learn C The Hard Way
 ====================
 
-My exercises from Learn C The Hard Way &lt;http://c.learncodethehardway.org>
+My exercises from [Learn C The Hard Way][1].
+
+[1]: http://c.learncodethehardway.org
