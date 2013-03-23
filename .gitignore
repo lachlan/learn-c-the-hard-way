@@ -1,3 +1,5 @@
+.DS_Store
+
 # Object files
 *.o
 
@@ -10,8 +12,15 @@
 *.so
 *.so.*
 *.dylib
+*.dSYM/**/*
 
 # Executables
 *.exe
 *.out
 *.app
+
+
+# Hack to exclude binaries
+*
+!*.*
+!Makefile
